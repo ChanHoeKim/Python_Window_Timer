@@ -1,4 +1,5 @@
 <img width="352" height="292" alt="화면 캡처 2026-05-31 121856" src="https://github.com/user-attachments/assets/b965dd34-633d-4ab6-afff-218718adb90e" />
+
 ## 1. 프로젝트 개요
 
 - **프로젝트명**: Windows 타이머 알림 프로그램
