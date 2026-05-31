@@ -1,4 +1,5 @@
-<img width="352" height="292" alt="화면 캡처 2026-05-31 121856" src="https://github.com/user-attachments/assets/b965dd34-633d-4ab6-afff-218718adb90e" />
+
+<img width="382" height="392" alt="화면 캡처 2026-05-31 134905" src="https://github.com/user-attachments/assets/97a09f9c-4c8c-453d-9928-4c9d18f23b2c" />
 
 ## 1. 프로젝트 개요
 
